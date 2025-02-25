@@ -1,0 +1,9 @@
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# linux files
+*.sh text eol=lf
+### LFS settings
+*.png filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+commit c3164a3d0bebe3f934add744b9230c0cfb8d4224
+Author: mr.robot <mr.robot@evil.corp>
+Date:   Wed Aug 3 19:51:11 2022 +0300
+
+    Added new joker
+
+diff --git a/images/joker/joker_new.jpg b/images/joker/joker_new.jpg
+new file mode 100644
+index 0000000..f717e41
+Binary files /dev/null and b/images/joker/joker_new.jpg differ

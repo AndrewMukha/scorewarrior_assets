@@ -1,0 +1,28 @@
+commit 8033fdf0a2d9941214610ea7c09d71649d804ee4
+Author: mr.robot <mr.robot@evil.corp>
+Date:   Wed Aug 3 20:50:19 2022 +0300
+
+    Random pug
+
+diff --git a/images/misc/dogs/random_pug.jpg b/images/misc/dogs/random_pug.jpg
+new file mode 100644
+index 0000000..1734a88
+Binary files /dev/null and b/images/misc/dogs/random_pug.jpg differ
+diff --git a/images/misc/dogs/random_pug.json b/images/misc/dogs/random_pug.json
+new file mode 100644
+index 0000000..fd31665
+--- /dev/null
++++ b/images/misc/dogs/random_pug.json
+@@ -0,0 +1,8 @@
++{
++  "species": "dog",
++  "name": "boop",
++  "rotate": "left",
++  "tags": [
++    "noflights"
++  ]
++}
+diff --git a/images/misc/dogs/white_02.png b/images/misc/dogs/white_02.png
+new file mode 100644
+index 0000000..0dfb3c9
+Binary files /dev/null and b/images/misc/dogs/white_02.png differ
